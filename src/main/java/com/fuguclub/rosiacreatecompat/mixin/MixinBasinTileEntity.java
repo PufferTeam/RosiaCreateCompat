@@ -1,4 +1,4 @@
-package com.fuguclub.voltworksmod.mixin;
+package com.fuguclub.rosiacreatecompat.mixin;
 
 import com.simibubi.create.content.contraptions.processing.BasinTileEntity;
 import com.simibubi.create.content.contraptions.processing.burner.BlazeBurnerBlock;
